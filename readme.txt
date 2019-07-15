@@ -22,3 +22,4 @@ git checkout -b dev
 git branch dev 
 git checkout dev
 
+git merge dev
