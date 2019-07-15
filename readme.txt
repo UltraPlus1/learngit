@@ -21,4 +21,9 @@ git checkout -b dev
 ==
 git branch dev 
 git checkout dev
+<<<<<<< HEAD
 Not 
+=======
+
+git merge dev
+>>>>>>> feature1
